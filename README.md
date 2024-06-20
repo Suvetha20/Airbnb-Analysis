@@ -52,9 +52,22 @@ Users can navigate through different pages, such as the home page and data visua
 
 ## Data Visualizations
 
-The project provides several visualizations, including bar charts, pie charts, and choropleth maps.
+The project provides several visualizations, including bar charts, pie charts, and scatter_mapbox.
 
 Visualizations include top property types by reviews, average prices by property type, and top properties with the highest review scores for cleanliness.
 
 Users can filter data based on criteria such as country, price range, number of beds, bedrooms, and cancellation policy.
+
+## User Interaction
+
+Users can interact with the data and visualizations by selecting options from dropdown menus, sliders, and other input elements.
+
+These interactions allow users to customize their analysis and focus on specific aspects of the data.
+
+## Results
+
+The application provides insights into Airbnb listings, such as popular property types, pricing trends, and cleanliness scores.
+
+These insights can be valuable for both Airbnb hosts and guests.
+
                                                     
