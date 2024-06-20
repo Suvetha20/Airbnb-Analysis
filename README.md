@@ -1,4 +1,4 @@
-                                                             # Airbnb-Analysis
+  # Airbnb-Analysis
 ## Introduction
  In this project, which involves sample Airbnb dataset, our objective is to conduct Exploratory Data Analysis (EDA) by performing data cleaning. Ultimately, we aim to represent the insightful findings in a visually compelling format through storytelling using Tableau.
 
