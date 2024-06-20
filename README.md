@@ -43,4 +43,18 @@ Step 5 :
 
 The final output of my project aims to provide an easily accessible analysis of Airbnb data for clients and users, particularly those interested in tourism and hotel visits. This analysis includes features such as hotel types, average prices, minimum and maximum prices, types of rooms, available facilities, and a map for convenient exploration. By presenting this information in a user-friendly format, we aim to enhance the experience of individuals seeking accommodation, offering valuable insights into various aspects of Airbnb listings to facilitate informed decision-making for their travel plans.
 
+
+## Streamlit Application
+
+The application uses Streamlit to create an interactive web interface for exploring and visualizing the data.
+
+Users can navigate through different pages, such as the home page and data visualization page.
+
+## Data Visualizations
+
+The project provides several visualizations, including bar charts, pie charts, and choropleth maps.
+
+Visualizations include top property types by reviews, average prices by property type, and top properties with the highest review scores for cleanliness.
+
+Users can filter data based on criteria such as country, price range, number of beds, bedrooms, and cancellation policy.
                                                     
